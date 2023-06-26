@@ -27,7 +27,7 @@ In its active state, the app would only grant access to users within a specific 
 - Easily move users between groups
 - Search all submissions by user or by assignment
 
-<img src="https://github.com/Task-Fighters/.github/assets/64709477/1a24136b-dcf2-42de-84d8-64ddb71754e7"/>
+<img align="left" src="https://github.com/Task-Fighters/.github/assets/64709477/1a24136b-dcf2-42de-84d8-64ddb71754e7"/>
 
 
 ## Credits
