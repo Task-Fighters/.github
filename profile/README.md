@@ -6,7 +6,6 @@ and for the convenience of both the students and the instructors!
 Now the application is in demo mode, meaning anyone can create an account as an admin so that we can showcase the full functionality.
 In its active state, the app would only grant access to users within a specific organization, and admin users would be seeded manually for security reasons.
 
-
 ## Features
 
 ### General
@@ -27,7 +26,7 @@ In its active state, the app would only grant access to users within a specific 
 - Easily move users between groups
 - Search all submissions by user or by assignment
 
-<img src="https://github.com/Task-Fighters/.github/assets/64709477/d1d73669-4a5d-4f49-ab4e-86e413f62238" width="250" height="700" />  <img src="https://github.com/Task-Fighters/.github/assets/64709477/3ac02c21-8a32-4ec7-8cff-2e06bcce6f6a" width="700" height="700" />
+<img src="https://github.com/Task-Fighters/.github/assets/64709477/2a67920e-390b-4ef1-a0d7-c418260eede8" width="250" height="700" />  <img src="https://github.com/Task-Fighters/.github/assets/64709477/1a24136b-dcf2-42de-84d8-64ddb71754e7" width="700" height="700" />
 
 
 ## Credits
