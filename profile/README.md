@@ -29,6 +29,7 @@ In its active state, the app would only grant access to users within a specific 
 
 
 ![Mobile](https://github.com/Task-Fighters/.github/assets/64709477/d1d73669-4a5d-4f49-ab4e-86e413f62238 | width=250)
+<img src="https://camo.githubusercontent.com/...](https://github.com/Task-Fighters/.github/assets/64709477/d1d73669-4a5d-4f49-ab4e-86e413f62238)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png"(https://github.com/Task-Fighters/.github/assets/64709477/d1d73669-4a5d-4f49-ab4e-86e413f62238)" width="100" height="150" />
 
 ![Piece-of-work (4)_macbookgrey_front](https://github.com/Task-Fighters/.github/assets/64709477/3ac02c21-8a32-4ec7-8cff-2e06bcce6f6a)
 
