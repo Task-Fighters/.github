@@ -8,7 +8,7 @@ In its active state, the app would only grant access to users within a specific 
 
 ## Features
 
-<div display="flex" flex-direction="row> 
+<div display="flex" flexDirection="row> 
   <div>
   
   ### General
