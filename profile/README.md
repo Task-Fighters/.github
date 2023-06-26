@@ -32,9 +32,7 @@ Link to the current deployed version: https://victorious-cliff-00f530803.3.azure
 <iframe width="500" height="300" src="https://www.youtube.com/embed/<MCjHqo01URg>" frameborder="0" allowfullscreen></iframe>
 
 
-[![](https://markdown-videos.deta.dev/youtu.be/MCjHqo01URg)](https://youtu.be/MCjHqo01URg)
-
-[![](https://markdown-videos.deta.dev/youtu.be/MCjHqo01URg)](https://youtu.be/MCjHqo01URg)
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://youtu.be/MCjHqo01URg) "Piece of code Demo")
 
 ## Credits
 
