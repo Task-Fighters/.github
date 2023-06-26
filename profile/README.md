@@ -29,11 +29,7 @@ Link to the current deployed version: https://victorious-cliff-00f530803.3.azure
 
 <img src="https://github.com/Task-Fighters/.github/assets/64709477/2a67920e-390b-4ef1-a0d7-c418260eede8" width="150" height="300" />  <img src="https://github.com/Task-Fighters/.github/assets/64709477/1a24136b-dcf2-42de-84d8-64ddb71754e7" width="600" height="300" />
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/{{ MCjHqo01URg }}" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
+Demo: https://youtu.be/MCjHqo01URg
 
 ## Credits
 
