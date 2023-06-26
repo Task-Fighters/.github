@@ -7,8 +7,11 @@ Now the application is in demo mode, meaning anyone can create an account as an 
 In its active state, the app would only grant access to users within a specific organization, and admin users would be seeded manually for security reasons.
 
 ## Features
-<img src="https://github.com/Task-Fighters/.github/assets/64709477/2a67920e-390b-4ef1-a0d7-c418260eede8" width="340" height="700" float="right"/>  
-### General
+
+<div display="flex" flex-direction="row> 
+  <div>
+  
+  ### General
 - Automatic Google Login
 - Intuitive UI and UX design
 - Fast load times
@@ -25,6 +28,9 @@ In its active state, the app would only grant access to users within a specific 
 - Create new users, groups, and assignments
 - Easily move users between groups
 - Search all submissions by user or by assignment
+</div>
+  <img src="https://github.com/Task-Fighters/.github/assets/64709477/2a67920e-390b-4ef1-a0d7-c418260eede8" width="340" height="700" float="right"/>  
+</div>
 
 <img src="https://github.com/Task-Fighters/.github/assets/64709477/1a24136b-dcf2-42de-84d8-64ddb71754e7"/>
 
